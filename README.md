@@ -6,4 +6,4 @@ This is a sample repository created for learning GitHub.
 
 I am learning how to create repositories, edit files, and commit changes.
 
-Created by: Your Name
+Created by: Asmita
